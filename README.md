@@ -24,5 +24,5 @@
 <ul>
   <li><b>Admin:</b> Full access to all features.</li>
   <li><b>Staff:</b> Limited to item and stock management.</li>
-  <li><b>Viewer:</b> Read-only access to inventory data.</li>
+  <li><b>Viewer (default):</b> Read-only access to inventory data.</li>
 </ul>
