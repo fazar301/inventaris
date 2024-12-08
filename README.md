@@ -4,6 +4,7 @@
 <h3>Fitur</h3>
 <ul>
   <li>Autentikasi pengguna dengan kontrol akses berbasis role (Admin, Staff, Viewer).</li>
+  <li>Ubah role dan hapus user (admin only)</li>
   <li>Operasi CRUD untuk item inventaris.</li>
   <li>Manajemen stok barang masuk dan keluar.</li>
   <li>Pengelolaan data supplier dan kategori.</li>
